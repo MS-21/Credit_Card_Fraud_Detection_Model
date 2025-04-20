@@ -13,6 +13,7 @@ This project focuses on building an effective machine learning classification mo
 
  ## Algorithms Used
 ✅ Logistic Regression
+
 ✅ Random Forest
 ✅ XGBoost
 ✅ LightGBM
