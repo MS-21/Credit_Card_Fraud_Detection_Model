@@ -15,7 +15,9 @@ This project focuses on building an effective machine learning classification mo
 ✅ Logistic Regression
 
 ✅ Random Forest
+
 ✅ XGBoost
+
 ✅ LightGBM
 #### Each model was evaluated on:
 - Accuracy
